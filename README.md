@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @frisky5
 - 👀 I’m interested in JAVA and anything computers
-- 🌱 I’m currently learning Postgresql
+- 🌱 I’m currently working on my personal project Tsuki Interactions Center.
 - 📫 How to reach me, well you can reach me at mahmood.alkhalil@outlook.com
 
 <!---
